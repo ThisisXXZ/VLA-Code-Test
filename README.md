@@ -1,11 +1,3 @@
-# ReadMe
-
-The `collect_capsules_env.py` with `collect_capsules_env.md` is under `src/xxz` directory.
-
-`cube_cone.py` is also a valid task but it is essentially a replica of the existing `push_cube` task. I started with it to familiarize myself with the codes and settings. 
-
----
-
 # VLA-Code-Test
 
 This coding test is designed for you to showcase your ability to define custom tasks in the Maniskill simulation environment for our VLA project. Your main role will be to design tasks that challenge both digital and physical agent capabilities. The focus is on creating a task that is distinct from existing tasks, with an emphasis on the robotics (physical agent) component, at least for this coding test.

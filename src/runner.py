@@ -33,4 +33,4 @@ def generate_videos(n_episodes=10, max_steps_per_episode=100, video_dir="card_st
     # env.close()
 
 if __name__ == "__main__":
-    generate_videos(n_episodes=10)
+    generate_videos(n_episodes=1, max_steps_per_episode=1000, video_dir="maniskill_videos")
